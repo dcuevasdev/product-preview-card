@@ -1,0 +1,13 @@
+/*===Variables===*/
+:root {
+  /*===Colors===*/
+  --background-color: #f2ebe3;
+  --primary-color: #3c8067;
+  --white-color: #fff;
+  --title-color: #1c232b;
+  --font-color: #6c7289;
+
+  /*===Fonts===*/
+  --font-title: "Fraunces", serif;
+  --font-text: "Montserrat", sans-serif;
+}
